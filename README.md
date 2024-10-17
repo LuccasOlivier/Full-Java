@@ -43,8 +43,4 @@ Este repositório contém uma coleção de materiais e recursos relacionados ao 
 
 ## Contribuições
 
-Este repositório é privado e destinado ao uso pessoal. 
-
-## Licença
-
-Este projeto não possui licença, sendo de uso exclusivo do autor.
+Este repositório é destinado ao uso pessoal. 
