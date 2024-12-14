@@ -14,4 +14,3 @@ Os exemplos de código e materiais foram criados e organizados de forma a propor
 ## Licença
 
 Este repositório é de **uso pessoal** e não possui uma licença específica. O conteúdo é para aprendizado e referência própria. Sinta-se à vontade para explorar, mas não é destinado a distribuição ou uso comercial.
->>>>>>> 5e74fe93bbadd38f655d55489c8313e7bc533f4d
