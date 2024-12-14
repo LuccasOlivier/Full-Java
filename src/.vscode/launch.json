@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ZipOutputStreamTest01",
+            "request": "launch",
+            "mainClass": "Wnio.test.ZipOutputStreamTest01",
+            "projectName": "src_4f8d571c"
+        },
+        {
+            "type": "java",
+            "name": "PathMatcherTest02",
+            "request": "launch",
+            "mainClass": "Wnio.test.PathMatcherTest02",
+            "projectName": "src_4f8d571c"
+        },
+        {
+            "type": "java",
             "name": "PathMatcherTest01",
             "request": "launch",
             "mainClass": "Wnio.test.PathMatcherTest01",
