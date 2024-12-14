@@ -6,27 +6,6 @@
     "configurations": [
         {
             "type": "java",
-            "name": "PathMatcherTest01",
-            "request": "launch",
-            "mainClass": "Wnio.test.PathMatcherTest01",
-            "projectName": "src_4f8d571c"
-        },
-        {
-            "type": "java",
-            "name": "PathMatchertest01",
-            "request": "launch",
-            "mainClass": "Wnio.test.PathMatchertest01",
-            "projectName": "src_4f8d571c"
-        },
-        {
-            "type": "java",
-            "name": "SimpleFileVisitorTest01",
-            "request": "launch",
-            "mainClass": "Wnio.test.SimpleFileVisitorTest01",
-            "projectName": "src_4f8d571c"
-        },
-        {
-            "type": "java",
             "name": "DirectoryStreamTest01",
             "request": "launch",
             "mainClass": "Wnio.test.DirectoryStreamTest01",
